@@ -1,0 +1,9 @@
+{
+  "name": "Javascript chat",
+  "version": "0.0.1",
+  "description": "Chat and watch youtube videos.",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
